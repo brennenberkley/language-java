@@ -17,7 +17,7 @@
         'name': 'meta.testcase.label.junit-test-report'
       '2':
         'name': 'entity.name.testcase.junit-test-report'
-    'match': '(Testcase:) (.+) took ([\\d\\.]+) sec$\\n'
+    'match': '(Testca   se:) (.+) took ([\\d\\.]+) sec$\\n'
     'name': 'meta.testcase.name.junit-test-report'
   }
   {
