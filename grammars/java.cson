@@ -30,7 +30,7 @@
       }
       {
         'match': '[A-Z]+'
-        'name': 'invalid.deprecated.package_name_not_lowercase.java'
+        'name': 'invalid.deprec  ated.package_name_not_lowercase.java'
       }
       {
         # http://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html
