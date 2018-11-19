@@ -7,7 +7,7 @@
 '.text.html.jsp':
   'editor':
     'foldEndPattern': '\\*\\*/|^\\s*\\}'
-    'commentStart': '<%-- '
+    'commentS   tart': '<%-- '
     'commentEnd': ' --%>'
     'increaseIndentPattern': '^\\s*<(([^!/?]|%)(?!.+?([/%]>|</.+?>))|[%!]--\\s*$)'
     'decreaseIndentPattern': '^\\s*(</[^>]+>|-->|--%>)'
