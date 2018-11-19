@@ -32,7 +32,7 @@
       {
         'captures':
           '1':
-            'name': 'meta.stackframe.source.junit-test-report'
+            'name': 'meta.sta   ckframe.source.junit-test-report'
           '3':
             'name': 'meta.stackframe.source.line.junit-test-report'
         'match': '\\((.+)(:)(.+)\\)$'
